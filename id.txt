@@ -1,0 +1,9 @@
+_name
+sum_of_no
+#program
+99a1
+s100.
+Interest
+Interest rate
+what?
+digit	num
